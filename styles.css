@@ -54,5 +54,7 @@ h2{
 }
 
 #num1:empty, #num2:empty, #num3:empty {
+    
     display: none;
+    
 }
