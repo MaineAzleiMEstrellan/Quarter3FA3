@@ -52,3 +52,7 @@ h2{
     border: solid black ;
 
 }
+
+#num1:empty, #num2:empty, #num3:empty {
+    display: none;
+}
